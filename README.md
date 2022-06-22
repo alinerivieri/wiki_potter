@@ -1,3 +1,34 @@
+# WikiPotter 
+
+🛠 UNDER CONSTRUCTION
+
+This project is part of my studies on ReactJS.
+
+📅 Evolution:
+
+06/22 - I'm working on the application design
+
+⚒️ Technologies used:
+
+- CSS
+- ReactJS
+- React Route Dom
+
+🤓 Learning:
+
+- I used react concepts like useState, routes 
+- Improving the knowledge of responsiveness with @media
+
+📄 Requirements:
+
+- Any operating system
+- VS Code
+
+📝 License:
+
+- Free for use and change
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
