@@ -23,9 +23,11 @@ const Signup = () => {
               type="password"
               placeholder="Senha"
             />
-            <button className="my-6 rounded-full py-2 bg-orange-400 hover:bg-orange-600 text-white text-xl">
-              CADASTRAR
-            </button>
+              <Link to="/">
+                <button className="my-6 w-full rounded-full py-2 bg-orange-400 hover:bg-orange-600 text-white text-xl">
+                  CADASTRAR
+                </button>
+              </Link>
             <div>
                 <p className='text-white text-center'>Ja tem cadastro? <span className='font-bold hover:text-orange-600'><Link to='/login'>ENTRAR</Link></span></p>
               </div>
