@@ -19,7 +19,8 @@ root.render(
       <Route path='/signup' element={<Signup/>} /> 
       <Route path='/spells' element={<Spells/>} /> 
       <Route path='/spelldetails' element={<SpellDetails/>} /> 
-      <Route path='/spelledit' element={<Edit/>} /> 
+      <Route path='/
+      ' element={<Edit/>} /> 
     </Routes>
   </BrowserRouter>
 );

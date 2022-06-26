@@ -1,0 +1,1 @@
+export const api = 'https://625db2e8d434c6001c514b47.mockapi.io/api/v1/spells/'
